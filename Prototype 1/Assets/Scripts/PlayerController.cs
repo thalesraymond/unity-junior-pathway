@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private InputAction moveAction;
 
+
     private float currentSpeed;
 
     private void OnEnable()
